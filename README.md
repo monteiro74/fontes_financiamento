@@ -17,7 +17,8 @@ Esta página poderá conter links desatualizados/quebrados.
 - [1. Fontes de financiamento](#1-fontes-de-financiamento)
 - [2. Lista de entidades para captação de recursos](#2-lista-de-entidades-para-captação-de-recursos)
 - [3. Editais](#3-editais)
-- [4. Algumas ferramentas para elaboração de projetos](#4-algumas-ferramentas-para-elaboração-de-projetos)
+- [4. Buscas no Google](#4-buscas-no-google)
+- [5. Algumas ferramentas para elaboração de projetos](#5-algumas-ferramentas-para-elaboração-de-projetos)
 
 
 
@@ -32,7 +33,6 @@ Fontes de financiamento para projetos (com ênfase em conservação) https://ppg
 Financiamentos, fundos setoriais e outras fontes de recursos não governamentais para municípios do Estado de São Paulo https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf
 
 # 2. Lista de entidades para captação de recursos
-
 
 
 | Entidade   | Url |
@@ -55,7 +55,11 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 * https://www.fundobrasil.org.br/edital/edital-comunidades-tradicionais-lutando-por-justica-climatica/
  
 
-# 4. Algumas ferramentas para elaboração de projetos
+# 4. Buscas no Google
+
+String de busca no [Google](https://www.google.com/search?ei=1AnKYZmQD-XY1sQP4_ykMA&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjIGCAAQFhAeOgcIABBHELADOgcIABCwAxBDOgoILhDIAxCwAxBDOgoILhDHARDRAxBDOgQIABBDOgcIABDJAxBDOgUIABCABDoLCC4QgAQQxwEQ0QM6BQguEIAEOgsILhCABBDHARCjAjoECC4QQzoHCAAQgAQQCkoECEEYAEoECEYYAFCCC1jShQFg6IcBaAVwAngBgAHfAYgB0ySSAQYwLjMyLjOYAQCgAQGwAQDIAQrAAQE&oq=edital%20capta%C3%A7%C3%A3o%20de%20recursos&q=edital%20capta%C3%A7%C3%A3o%20de%20recursos&rlz=1C5CHFA_enUS783US783&sclient=gws-wiz&uact=5&utm_medium=referral&utm_source=idealist&ved=0ahUKEwiZyuvj0YT1AhVlrJUCHWM-CQYQ4dUDCA4) por editais para captação de recursos.
+
+# 5. Algumas ferramentas para elaboração de projetos
 
 
 https://www.portaldoimpacto.com/ferramentas
