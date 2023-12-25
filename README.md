@@ -13,7 +13,6 @@ Esta página poderá conter links desatualizados/quebrados.
 # Sumário
 
 
-
 - [Fontes\_financiamento](#fontes_financiamento)
 - [Sumário](#sumário)
 - [1. Fontes de financiamento](#1-fontes-de-financiamento)
@@ -24,9 +23,6 @@ Esta página poderá conter links desatualizados/quebrados.
 - [5. Editais](#5-editais)
 - [6. Buscas no Google](#6-buscas-no-google)
 - [7. Algumas ferramentas para elaboração de projetos](#7-algumas-ferramentas-para-elaboração-de-projetos)
-
-
-
 
 
 
@@ -88,6 +84,7 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Funbio | https://www.funbio.org.br/chamadas-de-projetos/ |
 | Grupo Fundação Boticário | https://www.fundacaogrupoboticario.org.br/pt/Paginas/Inicial.aspx |
 | Serrapilheira | https://serrapilheira.org/todas-as-chamadas/ |
+| Coordenadoria Ecumênica de Serviço CESE | https://www.cese.org.br/editais/ |
 
 Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf
 
