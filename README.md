@@ -14,6 +14,15 @@ Esta página poderá conter links desatualizados/quebrados.
 
 
 
+- [Fontes\_financiamento](#fontes_financiamento)
+- [Sumário](#sumário)
+- [1. Fontes de financiamento](#1-fontes-de-financiamento)
+- [2. Lista de entidades para captação de recursos](#2-lista-de-entidades-para-captação-de-recursos)
+- [3. Bancos e agências](#3-bancos-e-agências)
+- [4. Organizações da sociedade civil, fundações e instituições privadas](#4-organizações-da-sociedade-civil-fundações-e-instituições-privadas)
+- [4. Editais](#4-editais)
+- [5. Buscas no Google](#5-buscas-no-google)
+- [6. Algumas ferramentas para elaboração de projetos](#6-algumas-ferramentas-para-elaboração-de-projetos)
 
 
 
@@ -59,6 +68,30 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Agência Japonesa para a Cooperação e Desenvolvimento – JICA | www.jica.go.jp |
 
 
+# 4. Organizações da sociedade civil, fundações e instituições privadas
+
+| Entidade   | Url |
+| -------- | ------- |
+| Fundação Bradesco | https://fundacao.bradesco/ |
+| Itaú Social e Cultural | www.itausocial.org.br |
+| Instituto Moreira Salles | www.ims.org.br |
+| Fundação Lemann | www.fundacaolemann.org.br |
+| Fundação Roberto Marinho | www.frm.org.br |
+| Fundação Abrinq | www.abrinq.com.br |
+| Fundação Amazônia Sustentável | http://fas-amazonia.org |
+| Fundação OSESP | www.osesp.art.br |
+| Instituto Ayrton Senna | www.institutoayrtonsenna.org.br |
+| Instituto Natura | www.institutonatura.org |
+| Instituto Ethos | www.ethos.org.br |
+| Instituto Votorantim | www.institutovotorantim.org.br |
+| SOS Mata Atlântica | www.sosma.org.br |
+| AACD - Associação de Assistência à Criança Defeituosa |
+www.aacd.org.br |
+| GRAAC - Grupo de Apoio à Criança com Câncer | www.graacc.org.br |
+| TUCCA - Tudo pela Cura do Câncer | www.tucca.org.br |
+
+Fonte: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf
+
 # 4. Editais 
 
 * https://captadores.org.br/category/editais/
@@ -72,6 +105,6 @@ String de busca no [Google](https://www.google.com/search?ei=1AnKYZmQD-XY1sQP4_y
 
 # 6. Algumas ferramentas para elaboração de projetos
 
-
 https://www.portaldoimpacto.com/ferramentas
+
 
