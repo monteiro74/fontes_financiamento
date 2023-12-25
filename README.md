@@ -12,13 +12,12 @@ Esta página poderá conter links desatualizados/quebrados.
 ---
 # Sumário
 
-- [Fontes\_financiamento](#fontes_financiamento)
-- [Sumário](#sumário)
-- [1. Fontes de financiamento](#1-fontes-de-financiamento)
-- [2. Lista de entidades para captação de recursos](#2-lista-de-entidades-para-captação-de-recursos)
-- [3. Editais](#3-editais)
-- [4. Buscas no Google](#4-buscas-no-google)
-- [5. Algumas ferramentas para elaboração de projetos](#5-algumas-ferramentas-para-elaboração-de-projetos)
+
+
+
+
+
+
 
 
 
@@ -48,18 +47,30 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Brazil foundation | https://brazilfoundation.org/edital/ |
 | Casa | https://casa.org.br/chamadas |
 
-# 3. Editais 
+# 3. Bancos e agências
+
+| Entidade   | Url |
+| -------- | ------- |
+| Banco Interamericano de Desenvolvimento – BID, | www.iadb.org |
+| Banco Mundial | www.worldbank.org |
+| Banco Europeu de Investimento - BEI | www.eib.org |
+|Corporação Andina de Fomento - CAF | www.caf.com |
+|Agência Francesa de Desenvolvimento - AFD | www.afd.fr |
+| Agência Japonesa para a Cooperação e Desenvolvimento – JICA | www.jica.go.jp |
+
+
+# 4. Editais 
 
 * https://captadores.org.br/category/editais/
 * https://investidor.bussolasocial.com.br/petrobras/editais/naoincentivados2023.2
 * https://www.fundobrasil.org.br/edital/edital-comunidades-tradicionais-lutando-por-justica-climatica/
  
 
-# 4. Buscas no Google
+# 5. Buscas no Google
 
 String de busca no [Google](https://www.google.com/search?ei=1AnKYZmQD-XY1sQP4_ykMA&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjIGCAAQFhAeOgcIABBHELADOgcIABCwAxBDOgoILhDIAxCwAxBDOgoILhDHARDRAxBDOgQIABBDOgcIABDJAxBDOgUIABCABDoLCC4QgAQQxwEQ0QM6BQguEIAEOgsILhCABBDHARCjAjoECC4QQzoHCAAQgAQQCkoECEEYAEoECEYYAFCCC1jShQFg6IcBaAVwAngBgAHfAYgB0ySSAQYwLjMyLjOYAQCgAQGwAQDIAQrAAQE&oq=edital%20capta%C3%A7%C3%A3o%20de%20recursos&q=edital%20capta%C3%A7%C3%A3o%20de%20recursos&rlz=1C5CHFA_enUS783US783&sclient=gws-wiz&uact=5&utm_medium=referral&utm_source=idealist&ved=0ahUKEwiZyuvj0YT1AhVlrJUCHWM-CQYQ4dUDCA4) por editais para captação de recursos.
 
-# 5. Algumas ferramentas para elaboração de projetos
+# 6. Algumas ferramentas para elaboração de projetos
 
 
 https://www.portaldoimpacto.com/ferramentas
