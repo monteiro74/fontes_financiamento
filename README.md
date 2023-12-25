@@ -1,6 +1,6 @@
 # Fontes_financiamento
 
-Lista de fontes de financiamento para projetos.
+Lista de fontes de financiamento para projetos diversos.
 
 
 **Atenção:**
@@ -53,7 +53,9 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Brazil foundation | https://brazilfoundation.org/edital/ |
 | Casa | https://casa.org.br/chamadas |
 
+
 # 3. Bancos e agências
+
 
 | Entidade   | Url |
 | -------- | ------- |
@@ -132,13 +134,12 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 | Oiko Credit | https://www.oikocredit.coop/es/que-hacemos/%C3%A1reas-de-inversi%C3%B3n/inclusi%C3%B3n-financiera |
 | The Overboork Foundation | https://overbrook.org/ |
 | The Charles Stewart Mott Foundation | http://www.mott.org/ |
-
+| The Rockefeller foundation | https://www.rockefellerfoundation.org/ |
 
 
 
 
 Algumas referências retiradas de: https://ppgbioanimal.ufms.br/fontes-de-financiamento-de-projetos/ e https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf
-
 
 
 
