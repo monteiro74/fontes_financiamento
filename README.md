@@ -86,6 +86,8 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Serrapilheira | https://serrapilheira.org/todas-as-chamadas/ |
 | Coordenadoria Ecumênica de Serviço CESE | https://www.cese.org.br/editais/ |
 | Fundação CSN | https://fundacaocsn.org.br/programas-abertos/ |
+| Fundação Boticário | https://www.fundacaogrupoboticario.org.br/pt/Paginas/Inicial.aspx |
+
 
 Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf e https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf
 
@@ -110,6 +112,8 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 | Ação mundo solidário | https://www.aswnet.de/portugues |
 | Mellon Foundation | https://www.mellon.org/grant-programs |
 | Banco interamericano de desenvolvimento IDB ou BID | https://www.iadb.org/en/who-we-are/country-offices/brazil |
+| Environmental Restoration and Conservation Agency, ERCA | https://www.erca.go.jp/erca/english/index.html |
+
 
 
 
