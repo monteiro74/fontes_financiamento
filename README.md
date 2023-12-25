@@ -85,8 +85,9 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Grupo Fundação Boticário | https://www.fundacaogrupoboticario.org.br/pt/Paginas/Inicial.aspx |
 | Serrapilheira | https://serrapilheira.org/todas-as-chamadas/ |
 | Coordenadoria Ecumênica de Serviço CESE | https://www.cese.org.br/editais/ |
+| Fundação CSN | https://fundacaocsn.org.br/programas-abertos/ |
 
-Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf
+Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf e https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf
 
 
 
@@ -112,7 +113,7 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 
 
 
-Algumas referências retiradas de: https://ppgbioanimal.ufms.br/fontes-de-financiamento-de-projetos/
+Algumas referências retiradas de: https://ppgbioanimal.ufms.br/fontes-de-financiamento-de-projetos/ e https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf
 
 
 
