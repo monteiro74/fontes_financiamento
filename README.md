@@ -87,6 +87,9 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Coordenadoria Ecumênica de Serviço CESE | https://www.cese.org.br/editais/ |
 | Fundação CSN | https://fundacaocsn.org.br/programas-abertos/ |
 | Fundação Boticário | https://www.fundacaogrupoboticario.org.br/pt/Paginas/Inicial.aspx |
+| Instituto Sabin | https://institutosabin.org.br/ |
+| INSTITUTO BRF | https://www.brf-global.com/sustentabilidade/comunidade/instituto-brf/ |
+| ISPN | https://ispn.org.br/# |
 
 
 Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf e https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf
@@ -113,6 +116,11 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 | Mellon Foundation | https://www.mellon.org/grant-programs |
 | Banco interamericano de desenvolvimento IDB ou BID | https://www.iadb.org/en/who-we-are/country-offices/brazil |
 | Environmental Restoration and Conservation Agency, ERCA | https://www.erca.go.jp/erca/english/index.html |
+| Fundação Waterloo | https://www.waterloofoundation.org.uk/AboutUs.html |
+| Prince Claus Fund | https://princeclausfund.org/support-us |
+| Google | https://www.google.org/ |
+| Alcoa | https://www.alcoa.com/foundation/en/partnerships-programs |
+| International Development Research Centre (IDRC) | https://idrc-crdi.ca/en/what-we-do/latin-america-and-caribbean e https://idrc-crdi.ca/en/funding |
 
 
 
