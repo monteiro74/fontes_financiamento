@@ -90,6 +90,8 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Instituto Sabin | https://institutosabin.org.br/ |
 | INSTITUTO BRF | https://www.brf-global.com/sustentabilidade/comunidade/instituto-brf/ |
 | ISPN | https://ispn.org.br/# |
+| Fundo Amazônia | https://www.fundoamazonia.gov.br/pt/home/ |
+
 
 
 Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf e https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf
@@ -121,6 +123,9 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 | Google | https://www.google.org/ |
 | Alcoa | https://www.alcoa.com/foundation/en/partnerships-programs |
 | International Development Research Centre (IDRC) | https://idrc-crdi.ca/en/what-we-do/latin-america-and-caribbean e https://idrc-crdi.ca/en/funding |
+| Liz Claiborne & Art Ortenberg Foundation | https://www.lcaof.org/new-page |
+| MacArthur Foundation | https://www.macfound.org/programs/ |
+
 
 
 
