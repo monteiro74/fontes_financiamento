@@ -19,7 +19,8 @@ Esta página poderá conter links desatualizados/quebrados.
 - [1. Fontes de financiamento](#1-fontes-de-financiamento)
 - [2. Lista de entidades para captação de recursos](#2-lista-de-entidades-para-captação-de-recursos)
 - [3. Bancos e agências](#3-bancos-e-agências)
-- [4. Organizações da sociedade civil, fundações e instituições privadas](#4-organizações-da-sociedade-civil-fundações-e-instituições-privadas)
+- [4. Organizações, fundações e instituições privadas no Brasil](#4-organizações-fundações-e-instituições-privadas-no-brasil)
+- [4.1. Organizações, fundações, instituições privadas no exterior](#41-organizações-fundações-instituições-privadas-no-exterior)
 - [4. Editais](#4-editais)
 - [5. Buscas no Google](#5-buscas-no-google)
 - [6. Algumas ferramentas para elaboração de projetos](#6-algumas-ferramentas-para-elaboração-de-projetos)
@@ -68,8 +69,7 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Agência Japonesa para a Cooperação e Desenvolvimento – JICA | www.jica.go.jp |
 
 
-# 4. Organizações da sociedade civil, fundações e instituições privadas
-
+# 4. Organizações, fundações e instituições privadas no Brasil
 
 
 | Entidade   | Url |
@@ -85,8 +85,20 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Instituto Ethos | www.ethos.org.br |
 | Instituto Votorantim | www.institutovotorantim.org.br |
 | SOS Mata Atlântica | www.sosma.org.br |
+| Funbio | https://www.funbio.org.br/chamadas-de-projetos/ |
 
-Fonte: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf
+Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf
+
+# 4.1. Organizações, fundações, instituições privadas no exterior
+
+| Entidade   | Url |
+| -------- | ------- |
+| Museum of Comparative Zoology | https://mcz.harvard.edu/funding |
+| The Society of Systematic Biologists (SSB) | https://www.systbio.org/graduate-student-research-awards.html |
+| Wildlife Acoustics | https://www.wildlifeacoustics.com/grant-program |
+| The Rufford Foundation | https://www.rufford.org/ |
+
+
 
 # 4. Editais 
 
