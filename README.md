@@ -70,25 +70,21 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 
 # 4. Organizações da sociedade civil, fundações e instituições privadas
 
+
+
 | Entidade   | Url |
 | -------- | ------- |
 | Fundação Bradesco | https://fundacao.bradesco/ |
 | Itaú Social e Cultural | www.itausocial.org.br |
 | Instituto Moreira Salles | www.ims.org.br |
-| Fundação Lemann | www.fundacaolemann.org.br |
 | Fundação Roberto Marinho | www.frm.org.br |
 | Fundação Abrinq | www.abrinq.com.br |
 | Fundação Amazônia Sustentável | http://fas-amazonia.org |
 | Fundação OSESP | www.osesp.art.br |
 | Instituto Ayrton Senna | www.institutoayrtonsenna.org.br |
-| Instituto Natura | www.institutonatura.org |
 | Instituto Ethos | www.ethos.org.br |
 | Instituto Votorantim | www.institutovotorantim.org.br |
 | SOS Mata Atlântica | www.sosma.org.br |
-| AACD - Associação de Assistência à Criança Defeituosa |
-www.aacd.org.br |
-| GRAAC - Grupo de Apoio à Criança com Câncer | www.graacc.org.br |
-| TUCCA - Tudo pela Cura do Câncer | www.tucca.org.br |
 
 Fonte: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf
 
