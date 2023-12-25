@@ -23,6 +23,7 @@ Esta página poderá conter links desatualizados/quebrados.
 - [4.1. Organizações, fundações, instituições privadas no exterior](#41-organizações-fundações-instituições-privadas-no-exterior)
 - [5. Editais](#5-editais)
 - [6. Buscas no Google](#6-buscas-no-google)
+- [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
 
 
 
@@ -162,4 +163,71 @@ Algumas referências retiradas de: https://ppgbioanimal.ufms.br/fontes-de-financ
 
 String de busca no [Google](https://www.google.com/search?ei=1AnKYZmQD-XY1sQP4_ykMA&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjIGCAAQFhAeOgcIABBHELADOgcIABCwAxBDOgoILhDIAxCwAxBDOgoILhDHARDRAxBDOgQIABBDOgcIABDJAxBDOgUIABCABDoLCC4QgAQQxwEQ0QM6BQguEIAEOgsILhCABBDHARCjAjoECC4QQzoHCAAQgAQQCkoECEEYAEoECEYYAFCCC1jShQFg6IcBaAVwAngBgAHfAYgB0ySSAQYwLjMyLjOYAQCgAQGwAQDIAQrAAQE&oq=edital%20capta%C3%A7%C3%A3o%20de%20recursos&q=edital%20capta%C3%A7%C3%A3o%20de%20recursos&rlz=1C5CHFA_enUS783US783&sclient=gws-wiz&uact=5&utm_medium=referral&utm_source=idealist&ved=0ahUKEwiZyuvj0YT1AhVlrJUCHWM-CQYQ4dUDCA4) por editais para captação de recursos.
 
+
+
+
+
+---
+# Avisos, licença, observações, estatísticas
+
+
+```
+Aviso:
+Este material esta recebendo atualizações frequentes. 
+As informações aqui contidas podem ser alteradas sem aviso prévio.
+```
+
+
+```
+Licença: 
+Lista mantida pelo Prof. Dr. Monteiro, E. S.
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+```
+
+![https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+
+
+```
+Observação: 
+1. Lista de recursos(ferramentas, sites, datasets) para suporte a escrita e revisão de artigos.
+2. Este material foi ou poderá ser usado em sala de aula.
+3. Este material recebe recomendações de tercerios (professores, técnicos e alunos) após avaliação.
+4. Alguns items poderão ser classificados em mais de uma categoria.
+5. A relação abaixo está em construção.
+Primeira postagem em: Dezembro/2023.
+```
+
+
+**Estatísticas**
+
+Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
+[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=default)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
+
+Pulse:<br>
+https://github.com/monteiro74/tutorial_python/pulse<BR>
+
+
+Histórico de frequência de código:<BR>
+https://github.com/monteiro74/tutorial_python/graphs/code-frequency<BR>
+
+Atividade de commits:<BR>
+https://github.com/monteiro74/tutorial_python/graphs/commit-activity<BR>
+
+Trafego:<BR>
+https://github.com/monteiro74/tutorial_python/graphs/traffic<BR>
+
+![stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=donut-vertical)](https://github.com/monteiro74/github-readme-stats)
+
+[Voltar ao sumário](#sumário)<br>
 
