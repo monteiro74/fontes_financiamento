@@ -64,6 +64,7 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Agência Francesa de Desenvolvimento - AFD | www.afd.fr |
 | Agência Japonesa para a Cooperação e Desenvolvimento – JICA | www.jica.go.jp |
 | Agência Brasileira de Cooperação - ABC | http://www.abc.gov.br/Projetos/CooperacaoRecebida/ProjetoseAtividades |
+| Banco do Brasil | https://transforma.fbb.org.br// |
 
 # 4. Organizações, fundações e instituições privadas no Brasil
 
@@ -91,6 +92,9 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | INSTITUTO BRF | https://www.brf-global.com/sustentabilidade/comunidade/instituto-brf/ |
 | ISPN | https://ispn.org.br/# |
 | Fundo Amazônia | https://www.fundoamazonia.gov.br/pt/home/ |
+| Petrobras | https://petrobras.com.br/inovacao-e-tecnologia/inovacao-aberta |
+
+
 
 
 
@@ -125,6 +129,9 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 | International Development Research Centre (IDRC) | https://idrc-crdi.ca/en/what-we-do/latin-america-and-caribbean e https://idrc-crdi.ca/en/funding |
 | Liz Claiborne & Art Ortenberg Foundation | https://www.lcaof.org/new-page |
 | MacArthur Foundation | https://www.macfound.org/programs/ |
+| Oiko Credit | https://www.oikocredit.coop/es/que-hacemos/%C3%A1reas-de-inversi%C3%B3n/inclusi%C3%B3n-financiera |
+| The Overboork Foundation | https://overbrook.org/ |
+| The Charles Stewart Mott Foundation | http://www.mott.org/ |
 
 
 
