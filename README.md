@@ -18,6 +18,7 @@ Esta página poderá conter links desatualizados/quebrados.
 - [1. Fontes de financiamento](#1-fontes-de-financiamento)
 - [2. Lista de entidades para captação de recursos](#2-lista-de-entidades-para-captação-de-recursos)
 - [3. Bancos e agências](#3-bancos-e-agências)
+  - [3.1. Agência Brasileira de Cooperação](#31-agência-brasileira-de-cooperação)
 - [4. Organizações, fundações e instituições privadas no Brasil](#4-organizações-fundações-e-instituições-privadas-no-brasil)
 - [4.1. Organizações, fundações, instituições privadas no exterior](#41-organizações-fundações-instituições-privadas-no-exterior)
 - [5. Editais](#5-editais)
@@ -65,8 +66,12 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Corporação Andina de Fomento - CAF | www.caf.com |
 | Agência Francesa de Desenvolvimento - AFD | www.afd.fr |
 | Agência Japonesa para a Cooperação e Desenvolvimento – JICA | www.jica.go.jp |
-| Agência Brasileira de Cooperação - ABC | http://www.abc.gov.br/Projetos/CooperacaoRecebida/ProjetoseAtividades |
 | Banco do Brasil | https://transforma.fbb.org.br// |
+
+## 3.1. Agência Brasileira de Cooperação
+
+http://www.abc.gov.br/Projetos/CooperacaoRecebida/ProjetoseAtividades
+
 
 # 4. Organizações, fundações e instituições privadas no Brasil
 
@@ -95,12 +100,16 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | ISPN | https://ispn.org.br/# |
 | Fundo Amazônia | https://www.fundoamazonia.gov.br/pt/home/ |
 | Petrobras | https://petrobras.com.br/inovacao-e-tecnologia/inovacao-aberta |
+| Coalizão Brasil Clima, Florestas e Agricultura | https://coalizaobr.com.br/ |
+| Mater natura | https://maternatura.org.br/nossas-acoes/editais/ |
+| Mar Brasil | https://marbrasil.org/projetos/ |
 
 
 
 
 
-Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf e https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf
+
+Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf, https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf, https://maternatura.org.br/quem-somos/parceiros/
 
 
 
