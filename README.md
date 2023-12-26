@@ -23,6 +23,7 @@ Esta página poderá conter links desatualizados/quebrados.
 - [4.1. Organizações, fundações, instituições privadas no exterior](#41-organizações-fundações-instituições-privadas-no-exterior)
 - [5. Editais](#5-editais)
 - [6. Buscas no Google](#6-buscas-no-google)
+- [7. Outros links](#7-outros-links)
 - [Avisos, licença, observações, estatísticas](#avisos-licença-observações-estatísticas)
 
 
@@ -164,6 +165,13 @@ Algumas referências retiradas de: https://ppgbioanimal.ufms.br/fontes-de-financ
 String de busca no [Google](https://www.google.com/search?ei=1AnKYZmQD-XY1sQP4_ykMA&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjIGCAAQFhAeOgcIABBHELADOgcIABCwAxBDOgoILhDIAxCwAxBDOgoILhDHARDRAxBDOgQIABBDOgcIABDJAxBDOgUIABCABDoLCC4QgAQQxwEQ0QM6BQguEIAEOgsILhCABBDHARCjAjoECC4QQzoHCAAQgAQQCkoECEEYAEoECEYYAFCCC1jShQFg6IcBaAVwAngBgAHfAYgB0ySSAQYwLjMyLjOYAQCgAQGwAQDIAQrAAQE&oq=edital%20capta%C3%A7%C3%A3o%20de%20recursos&q=edital%20capta%C3%A7%C3%A3o%20de%20recursos&rlz=1C5CHFA_enUS783US783&sclient=gws-wiz&uact=5&utm_medium=referral&utm_source=idealist&ved=0ahUKEwiZyuvj0YT1AhVlrJUCHWM-CQYQ4dUDCA4) por editais para captação de recursos.
 
 
+
+# 7. Outros links
+
+Prosas https://prosas.com.br/inicio
+Hub projetos https://hubdeprojetos.bndes.gov.br/pt/
+IADB https://www.iadb.org/pt-br/quem-somos/sobre-o-bid
+IPT Open https://iptopen.ipt.br/chamamentos/
 
 
 
