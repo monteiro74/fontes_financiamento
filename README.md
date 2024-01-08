@@ -104,6 +104,7 @@ http://www.abc.gov.br/Projetos/CooperacaoRecebida/ProjetoseAtividades
 | Coalizão Brasil Clima, Florestas e Agricultura | https://coalizaobr.com.br/ |
 | Mater natura | https://maternatura.org.br/nossas-acoes/editais/ |
 | Mar Brasil | https://marbrasil.org/projetos/ |
+| FINEP | http://www.finep.gov.br/chamadas-publicas?situacao=aberta |
 
 
 
