@@ -20,7 +20,7 @@ Esta página poderá conter links desatualizados/quebrados.
 - [3. Bancos e agências](#3-bancos-e-agências)
   - [3.1. Agência Brasileira de Cooperação](#31-agência-brasileira-de-cooperação)
 - [4. Organizações, fundações e instituições privadas/publicas no Brasil](#4-organizações-fundações-e-instituições-privadaspublicas-no-brasil)
-- [4.1. Organizações, fundações, instituições privadas no exterior](#41-organizações-fundações-instituições-privadas-no-exterior)
+- [4.1. Organizações, fundações, instituições privadas/publicas no exterior](#41-organizações-fundações-instituições-privadaspublicas-no-exterior)
 - [5. Editais](#5-editais)
 - [6. Buscas no Google](#6-buscas-no-google)
 - [7. Outros links](#7-outros-links)
@@ -117,7 +117,7 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 
 
 
-# 4.1. Organizações, fundações, instituições privadas no exterior
+# 4.1. Organizações, fundações, instituições privadas/publicas no exterior
 
 | Entidade   | Url |
 | -------- | ------- |
