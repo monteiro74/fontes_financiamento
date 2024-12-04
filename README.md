@@ -54,6 +54,7 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | INW | https://inw.org.br/programas/inclusao-produtiva/edital-inw-2024/ |
 | Brazil foundation | https://brazilfoundation.org/edital/ |
 | Casa | https://casa.org.br/chamadas |
+| MP MT Bapre | https://portal.mpmt.mp.br/bapre | 
 
 
 # 3. Bancos e agências
@@ -108,6 +109,8 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Mar Brasil | https://marbrasil.org/projetos/ |
 | FINEP | http://www.finep.gov.br/chamadas-publicas?situacao=aberta |
 | Fiocruz | https://portal.fiocruz.br/programas-de-incentivo |
+| Clima e sociedade | https://climaesociedade.org/ |
+
 
 
 
@@ -148,6 +151,7 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 | The Overboork Foundation | https://overbrook.org/ |
 | The Charles Stewart Mott Foundation | http://www.mott.org/ |
 | The Rockefeller foundation | https://www.rockefellerfoundation.org/ |
+| Green climate | https://www.greenclimate.fund/ |
 
 
 
