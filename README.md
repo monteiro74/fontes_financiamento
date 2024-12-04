@@ -39,6 +39,7 @@ Fontes de financiamento para projetos (com ênfase em conservação) https://ppg
 
 Financiamentos, fundos setoriais e outras fontes de recursos não governamentais para municípios do Estado de São Paulo https://www.sdr.sp.gov.br/media/2023/01/Fontes-de-Financiamento-para-Municipios_JAN_23.pdf
 
+---
 # 2. Lista de entidades para captação de recursos
 
 
@@ -56,7 +57,7 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | Casa | https://casa.org.br/chamadas |
 | MP MT Bapre | https://portal.mpmt.mp.br/bapre | 
 
-
+---
 # 3. Bancos e agências
 
 
@@ -76,7 +77,7 @@ Financiamentos, fundos setoriais e outras fontes de recursos não governamentais
 | -------- | ------- |
 | ABC | http://www.abc.gov.br/Projetos/CooperacaoRecebida/ProjetoseAtividades |
 
-
+---
 # 4. Organizações, fundações e instituições privadas/publicas no Brasil
 
 
@@ -159,20 +160,20 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 Algumas referências retiradas de: https://ppgbioanimal.ufms.br/fontes-de-financiamento-de-projetos/ e https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf
 
 
-
+---
 # 5. Editais 
 
 * https://captadores.org.br/category/editais/
 * https://investidor.bussolasocial.com.br/petrobras/editais/naoincentivados2023.2
 * https://www.fundobrasil.org.br/edital/edital-comunidades-tradicionais-lutando-por-justica-climatica/
  
-
+---
 # 6. Buscas no Google
 
 String de busca no [Google](https://www.google.com/search?ei=1AnKYZmQD-XY1sQP4_ykMA&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjIGCAAQFhAeOgcIABBHELADOgcIABCwAxBDOgoILhDIAxCwAxBDOgoILhDHARDRAxBDOgQIABBDOgcIABDJAxBDOgUIABCABDoLCC4QgAQQxwEQ0QM6BQguEIAEOgsILhCABBDHARCjAjoECC4QQzoHCAAQgAQQCkoECEEYAEoECEYYAFCCC1jShQFg6IcBaAVwAngBgAHfAYgB0ySSAQYwLjMyLjOYAQCgAQGwAQDIAQrAAQE&oq=edital%20capta%C3%A7%C3%A3o%20de%20recursos&q=edital%20capta%C3%A7%C3%A3o%20de%20recursos&rlz=1C5CHFA_enUS783US783&sclient=gws-wiz&uact=5&utm_medium=referral&utm_source=idealist&ved=0ahUKEwiZyuvj0YT1AhVlrJUCHWM-CQYQ4dUDCA4) por editais para captação de recursos.
 
 
-
+---
 # 7. Outros links
 
 Prosas https://prosas.com.br/inicio
@@ -214,35 +215,7 @@ Primeira postagem em: Dezembro/2023.
 ```
 
 
-**Estatísticas**
 
-Histórico de atualizações nos repositórios do Prof. Monteiro:<br>
-[![teste](https://github-readme-activity-graph.vercel.app/graph?username=monteiro74&theme=github-compact)](https://github.com/monteiro74/tutorial_python)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=monteiro74&theme=default)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
-
-Pulse:<br>
-https://github.com/monteiro74/tutorial_python/pulse<BR>
-
-
-Histórico de frequência de código:<BR>
-https://github.com/monteiro74/tutorial_python/graphs/code-frequency<BR>
-
-Atividade de commits:<BR>
-https://github.com/monteiro74/tutorial_python/graphs/commit-activity<BR>
-
-Trafego:<BR>
-https://github.com/monteiro74/tutorial_python/graphs/traffic<BR>
-
-![stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![stats](https://github-readme-stats.vercel.app/api?username=monteiro74&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74)](https://github.com/monteiro74/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monteiro74&layout=donut-vertical)](https://github.com/monteiro74/github-readme-stats)
 
 [Voltar ao sumário](#sumário)<br>
 
