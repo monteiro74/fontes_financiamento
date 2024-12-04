@@ -21,6 +21,7 @@ Esta página poderá conter links desatualizados/quebrados.
   - [3.1. Agência Brasileira de Cooperação](#31-agência-brasileira-de-cooperação)
 - [4. Organizações, fundações e instituições privadas/publicas no Brasil](#4-organizações-fundações-e-instituições-privadaspublicas-no-brasil)
   - [4.1. Organizações, fundações, instituições privadas/publicas no exterior](#41-organizações-fundações-instituições-privadaspublicas-no-exterior)
+  - [4.2. Fontes com foco no clima](#42-fontes-com-foco-no-clima)
 - [5. Editais](#5-editais)
 - [6. Buscas no Google](#6-buscas-no-google)
 - [7. Outros links](#7-outros-links)
@@ -151,11 +152,23 @@ Algumas referências retiradas de: https://www.sdr.sp.gov.br/media/2023/01/Fonte
 | The Charles Stewart Mott Foundation | http://www.mott.org/ |
 | The Rockefeller foundation | https://www.rockefellerfoundation.org/ |
 | Green climate | https://www.greenclimate.fund/ |
-
-
+| EUKI | https://www.euki.de/en/ |
+| Donor tracker| https://donortracker.org/ | 
+| Green Climate Fund | https://www.unep.org/about-un-environment/funding-and-partnerships/green-climate-fund |
 
 
 Algumas referências retiradas de: https://ppgbioanimal.ufms.br/fontes-de-financiamento-de-projetos/ e https://www.ibama.gov.br/phocadownload/prevfogo/projetos_programas/catalogo-financiadores.pdf
+
+
+
+## 4.2. Fontes com foco no clima
+
+| Entidade   | Url |
+| -------- | ------- |
+| BNDES | https://www.bndes.gov.br/SiteBNDES/bndes/bndes_en/Institucional/Social_and_Environmental_Responsibility/climate_fund_program.html |
+| Lista de fundos | https://climatefundsupdate.org/the-funds/ |
+| Apply for funding | https://www.adaptation-fund.org/apply-funding/ |
+| Climate funding opportunities | https://ndcpartnership.org/knowledge-portal/climate-toolbox/climate-funding-opportunities |
 
 
 ---
